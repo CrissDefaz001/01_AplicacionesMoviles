@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSON Rest Java</string>
+    <string name="lblObtener">Obtener Repositorios</string>
+    <string name="lblUsuario">Usuario GitHub</string>
+</resources>
